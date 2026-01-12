@@ -1,7 +1,6 @@
 # AI-Powered Prospect Intelligence Engine 🚀
 
-An automated **LinkedIn lead sourcing workflow** built using **n8n** to collect, enrich, and manage potential leads efficiently.  
-This project demonstrates real-world **automation, workflow orchestration, and data handling** skills.
+An **AI-powered Market Research Engine** that identifies and organizes high-intent prospects based on industry engagement. This system automates the enrichment and filtering process, helping sales teams prioritize high-value leads without manual data entry.
 
 ---
 
