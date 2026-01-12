@@ -1,4 +1,4 @@
-# n8n LinkedIn Leads Automation 🚀
+# AI-Powered Prospect Intelligence Engine 🚀
 
 An automated **LinkedIn lead sourcing workflow** built using **n8n** to collect, enrich, and manage potential leads efficiently.  
 This project demonstrates real-world **automation, workflow orchestration, and data handling** skills.
